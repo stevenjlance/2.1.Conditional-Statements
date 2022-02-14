@@ -1,4 +1,4 @@
-# Conditional Statements
+ # Conditional Statements
 Conditional statements (often simply referrerd to as if statements) are a fundamental concept in all programming languages. Let's suppose we want to run a certain set of code only *if* certain conditions are met, we would write a conditional statement to achieve this!
 ```javascript
 if(CONDITION_YOU_ARE_CHECKING) {
@@ -21,7 +21,11 @@ For today's class, we will be practicing writing our very first conditional stat
 
 ![](Problem3.gif)
 
-**CHALLENGE #4**: Create your own design using the following requirements:
+**CHALLENGE #4**: If mouseX is less than 100, turn the circle one color. If the mouseX is larger than 
+
+![](Problem4.gif)
+
+**CHALLENGE #5**: Create your own design using the following requirements:
 - Create more than two variations by writing a conditional statement using the x position and y position of your mouse.
 - You can change the color, size or position of a shape.`
 - You can adapt a previous sketch and add interactivity to it.

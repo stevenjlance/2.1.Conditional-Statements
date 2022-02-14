@@ -15,6 +15,19 @@ function draw() {
 	// 	background(0)
 	// }
 
+	if(mouseX > 100){
+		
+	}
+	if(mouseX > 300){
+
+	}
+	if(mouseX > 400)
+
 	
+
+
+
+
+
 
 }
